@@ -1,5 +1,3 @@
-
-
 #ifndef AM_BP_RANDOM_RANGE
 #define AM_BP_RANDOM_RANGE
 

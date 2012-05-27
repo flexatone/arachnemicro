@@ -4,7 +4,7 @@
 #include "AMRandom.h"
 
 
-#define TWO_PI 6.2831853071795862
+// #define TWO_PI 6.2831853071795862
 
 
 

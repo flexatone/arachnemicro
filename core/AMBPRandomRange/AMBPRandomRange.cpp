@@ -1,5 +1,3 @@
-
-
 #include "WProgram.h"
 #include "AMBPRandomRange.h"
 #include "AMRandom.h"

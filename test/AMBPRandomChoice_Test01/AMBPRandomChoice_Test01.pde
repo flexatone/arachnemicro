@@ -51,8 +51,8 @@ void loop () {
         Serial.print("current sample count: ");
         Serial.println(sampleCount);
 
-        Serial.print("_lastIndexUsed: ");
-        Serial.println(bp1._lastIndexUsed);
+//         Serial.print("_lastIndexUsed: ");
+//         Serial.println(bp1._lastIndexUsed);
 
         Serial.print("current sample value: ");
         Serial.println(bp1.floatAtSample(sampleCount));
